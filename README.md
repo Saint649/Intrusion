@@ -1,4 +1,4 @@
-# INTRUSION
+# OFFENSIVE
 
 ## Objective
 [Brief Objective - Remove this afterwards]
@@ -10,21 +10,24 @@ To leverage my knowledge of cybersecurity principles and hands-on experience wit
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Network traffic analysis using tools like Wireshark, Zeek (Bro), or Suricata
-- Log analysis (e.g., syslog, Windows Event Viewer, SIEM platforms)
-- Signature-based and behavior-based detection
-- Use of Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS) like Snort, Suricata, or Cisco Firepower
-- Endpoint detection and response (EDR) technologies
-
+- Penetration Testing: Attempting to breach networks, systems, or applications.
+- Social Engineering: Tricking employees via phishing, vishing, or physical intrusions.
+- Exploitation: Using known or zero-day vulnerabilities to gain access.
+- Post-Exploitation: Escalating privileges, moving laterally within the network, and simulating data exfiltration.
+- Persistence Testing: Simulating how long an attacker can stay hidden in the network.
 
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
 
-- Snort – Open-source IDS/IPS for traffic analysis and packet logging
-- Suricata – High-performance IDS/IPS and network security monitoring
-- OSSEC – Host-based IDS (HIDS) for log analysis and integrity checking
-- Zeek (formerly Bro) – Network analysis framework
+- Metasploit – Exploitation framework.
+- Cobalt Strike – Post-exploitation and command & control (C2).
+- Nmap – Network mapping and scanning.
+- Burp Suite – Web application testing.
+- BloodHound – Active Directory mapping and attack path discovery.
+- Empire / Covenant / Sliver – Post-exploitation frameworks.
+
+
 
 
 ## Steps
